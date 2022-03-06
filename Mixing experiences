@@ -20,3 +20,11 @@ Coloring:
 We tried out a few brands of colorants, and our official recommendation is:
 3DBasics Color Ampule
 This specific colorant gave us the best repeatability and even coloring, as well as easy dosage.
+
+Curing times:
+After 3d printing and wahsing , the material is still yellow.
+When fully cured the material will reach its highest hardness (refer to technical datasheet)
+and will lose the indicator color.
+Curing works best in very intense broad spectrum UV (Summer sunlight!)
+In a commonly available curing station it usually takes 2h per 1mm thickness 
+(the light penetration decreases logarithmically with thickness so parts over 5mm can also take significantly longer than that)

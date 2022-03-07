@@ -21,6 +21,16 @@ We tried out a few brands of colorants, and our official recommendation is:
 3DBasics Color Ampule
 This specific colorant gave us the best repeatability and even coloring, as well as easy dosage.
 
+Filler Materials:
+Adding solid particels to Resin is always difficutl as the particles sink to the bottom during the print and tend to block out the light needed for curing.
+MAYER MAKES Engineering Resin is much more viskous than common resins so it seems a good candidate to change that.
+We experimented with adding Glitter(myca) in various Quantities:
+the Result for now is that you can add a little bit of glitter to coloured Resin to give it a sparkly effect, which looks nice and prints like normal.
+Suspension holds for at least one hour (we only did small prints so far)
+But glitter filled prints did not work reliably as expected.
+A dedicated Material for this purpose could be a future product.
+
+
 Curing times:
 After 3d printing and wahsing , the material is still yellow.
 When fully cured the material will reach its highest hardness (refer to technical datasheet)

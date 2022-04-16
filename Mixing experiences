@@ -38,3 +38,10 @@ and will lose the indicator color.
 Curing works best in very intense broad spectrum UV (Summer sunlight!)
 In a commonly available curing station it usually takes 2h per 1mm thickness 
 (the light penetration decreases logarithmically with thickness so parts over 5mm can also take significantly longer than that)
+
+Magnetic Buildplates:
+Magnetic buildplates attach to the 3D rpinters original buildplate and can afeter printing be removed and felxed to easily remove the printed object without damage.
+We have tried out the most common variant( a magnetic foil sheet + stainless steel plate).
+Conclusion: Yes it works with MAYER MAKES Engineering Resin,
+ but because of the viscosity increasing in cold Sourrundings, we advise to use this combo in a warm environment not below 15°C.
+

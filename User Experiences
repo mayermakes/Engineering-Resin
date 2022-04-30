@@ -8,6 +8,7 @@ Underwater:
 
 Engineering Resin is not intended to be used under water,
 but we had great results with a mixture of 50% Engineering Resin and 50% Standard Resin for Underwater Applications.
+Also a pigment can help prolong the resistance to water. Choose a base Resin that has worked for your underwater application before.
 
 
 strengthening Flexible Resins:
@@ -15,14 +16,25 @@ strengthening Flexible Resins:
 If your usual Flexible Resin results in parts that Rip easily in use, consider mixing 25% Engineering Resin to it.
 this mixture makes it just a little bit less flexible but drastically increases durability.
 
+HIGH DETAIL prints (miniatures):
+
+For prints wit hvery high Detail we have tested High End Miniature Resins as well as Basic Resins in 
+Mixture With MAYER MAKES ENGIneering Resin to improve model durability.
+In general to retain the High Detail capabilities while strenghtening weak and brittle parts we recommend 
+to mix your Base Resin with 20-50% MAYER MAKES Engineering Resin. Make sure to shake  both resins in their own bottle and mix them together very well.
+Most detail Resins have a much lower density than Engineering Resin so it is advised to Stir the Vat inbetween prints.
+We noticed Separation happening after about 20 hours (which is also a typical Rate for Detail Resins to settle).
+
 
 Coloring:
+
 We tried out a few brands of colorants, and our official recommendation is:
 3DBasics Color Ampule
 This specific colorant gave us the best repeatability and even coloring, as well as easy dosage.
 We are now carrying Color Ampules as available upgrades to Your Order!
 
 Filler Materials:
+
 Adding solid particels to Resin is always difficutl as the particles sink to the bottom during the print and tend to block out the light needed for curing.
 MAYER MAKES Engineering Resin is much more viskous than common resins so it seems a good candidate to change that.
 We experimented with adding Glitter(myca) in various Quantities:
@@ -33,6 +45,7 @@ A dedicated Material for this purpose could be a future product.
 
 
 Curing times:
+
 After 3d printing and wahsing , the material is still yellow.
 When fully cured the material will reach its highest hardness (refer to technical datasheet)
 and will lose the indicator color.
@@ -41,6 +54,7 @@ In a commonly available curing station it usually takes 2h per 1mm thickness
 (the light penetration decreases logarithmically with thickness so parts over 5mm can also take significantly longer than that)
 
 Magnetic Buildplates:
+
 Magnetic buildplates attach to the 3D rpinters original buildplate and can afeter printing be removed and felxed to easily remove the printed object without damage.
 We have tried out the most common variant( a magnetic foil sheet + stainless steel plate).
 Conclusion: Yes it works with MAYER MAKES Engineering Resin,

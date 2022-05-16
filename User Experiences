@@ -2,7 +2,8 @@ Stiffness:
 
 the Impact resistance partly comes from the Resins ability to conform to impacts aka beeing a bit flexible, if you want stiffer pieces, you can increase thickness,
 add stiffener ribs in your 3d modell or mix the Resin with a more rigid type of Resin. the bigger the Part of Engineering Resin , the better the impact resistance.
-Opaque colored Resins also often have stiffer characteristics than clear Resins.
+Opaque colored Resins also often have stiffer characteristics than clear Resins. Peak hardness is reached when the material is fully cured. 
+Once all the yellow colorant has vanished the material is fully cured.
 
 Underwater:
 
@@ -14,16 +15,16 @@ Also a pigment can help prolong the resistance to water. Choose a base Resin tha
 strengthening Flexible Resins:
 
 If your usual Flexible Resin results in parts that Rip easily in use, consider mixing 25% Engineering Resin to it.
-this mixture makes it just a little bit less flexible but drastically increases durability.
+This mixture makes it just a little bit less flexible but drastically increases durability.
 
 HIGH DETAIL prints (miniatures):
 
-For prints wit hvery high Detail we have tested High End Miniature Resins as well as Basic Resins in 
-Mixture With MAYER MAKES ENGIneering Resin to improve model durability.
+For prints with very high Detail we have tested High End Miniature Resins as well as Basic Resins in 
+Mixture with MAYER MAKES ENGIneering Resin to improve model durability.
 In general to retain the High Detail capabilities while strenghtening weak and brittle parts we recommend 
 to mix your Base Resin with 20-50% MAYER MAKES Engineering Resin. Make sure to shake  both resins in their own bottle and mix them together very well.
-Most detail Resins have a much lower density than Engineering Resin so it is advised to Stir the Vat inbetween prints.
-We noticed Separation happening after about 20 hours (which is also a typical Rate for Detail Resins to settle).
+Most detail Resins have a much lower density than Engineering Resin so it is advised to stir the Vat inbetween prints.
+We noticed separation happening after about 20 hours (which is also a typical Rate for Detail Resins to settle).
 
 
 Coloring:
@@ -31,11 +32,11 @@ Coloring:
 We tried out a few brands of colorants, and our official recommendation is:
 3DBasics Color Ampule
 This specific colorant gave us the best repeatability and even coloring, as well as easy dosage.
-We are now carrying Color Ampules as available upgrades to Your Order!
+We are now carrying Color Ampules as available upgrades to Your Order!(ONLY EU at the moment)
 
 Filler Materials:
 
-Adding solid particels to Resin is always difficutl as the particles sink to the bottom during the print and tend to block out the light needed for curing.
+Adding solid particles to Resin is always difficult as the particles sink to the bottom during the print and tend to block out the light needed for curing.
 MAYER MAKES Engineering Resin is much more viskous than common resins so it seems a good candidate to change that.
 We experimented with adding Glitter(myca) in various Quantities:
 the Result for now is that you can add a little bit of glitter to coloured Resin to give it a sparkly effect, which looks nice and prints like normal.
@@ -46,7 +47,7 @@ A dedicated Material for this purpose could be a future product.
 
 Curing times:
 
-After 3d printing and wahsing , the material is still yellow.
+After 3d printing and washing , the material is still yellow.
 When fully cured the material will reach its highest hardness (refer to technical datasheet)
 and will lose the indicator color.
 Curing works best in very intense broad spectrum UV (Summer sunlight!)
@@ -55,9 +56,10 @@ In a commonly available curing station it usually takes 2h per 1mm thickness
 
 Magnetic Buildplates:
 
-Magnetic buildplates attach to the 3D rpinters original buildplate and can afeter printing be removed and felxed to easily remove the printed object without damage.
+Magnetic buildplates attach to the 3D printers original buildplate and can after printing be removed and flexed to easily remove the printed object without damage.
 We have tried out the most common variant( a magnetic foil sheet + stainless steel plate).
 Conclusion: Yes it works with MAYER MAKES Engineering Resin,
  but because of the viscosity increasing in cold Sourrundings, we advise to use this combo in a warm environment not below 15°C.
+When printing big heavy models the prints can get to heavy for the magnetic forces to hold, so we advise to print fever parts at once and evenly distribute them on the buildplate.
 
 

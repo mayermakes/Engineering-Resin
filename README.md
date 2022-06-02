@@ -1,7 +1,8 @@
 # MAYER MAKES Engineering-Resin
 This product is currently available in: European Union member states, Switzerland, Norway
-SOON TO COME : USA
-PRE-Orders for USA are open on https://mayermakes.com
+ USA & Canada
+Order on:
+ https://mayermakes.com
 
 Material Safety Datasheets, Product sheet and Slicer Profiles for MAYER MAKES Engineering Resin
 

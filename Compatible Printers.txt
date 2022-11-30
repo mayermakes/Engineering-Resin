@@ -1,0 +1,42 @@
+3D Printers that are compatible with MAYER MAKES Engineering Resin:
+
+In general almost all commonly available Printers are expected to be compatible.
+Known incompatible brands: Formlabs
+
+Exemplary compatible models:
+Wanhao
+	D7/D8
+Anycubic
+	photon
+	photon s
+	photon mono (all variants)
+	photon mono X (all variants)
+Elegoo
+	Mars (all variants)
+	Saturn (all variants)
+Longer	
+	Orange (all variants)
+Phrozen 
+	Sonic(all variants)
+Prusa
+	SL1
+	SL1s
+If your printer uses 395-405nm UV Spectrum it is very likely to be compatible.
+
+
+if you cannot find a ready made profile on our Github you can easily derive it from a similar printers settings.
+here are some general guidelines:
+
+For older 3d printers(without monochromatic screen)
+				Bottom layer 50-60sek
+				normal Layer 10-15sek
+				
+For modern 3d printers (with monochromatic screen)
+				Bottom layer 20-30sek
+				normal Layer 5-8sek
+				
+FOR ALL 3d printers: 
+				Lift 6-10mm (it is recommended to use 10 for safer peeling and giving the Resin time to flow back)
+				Print at around 20°C, the Resin can be to viscous when it has below 15°C
+
+	

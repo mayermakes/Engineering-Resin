@@ -1,5 +1,5 @@
 # MAYER MAKES Engineering-Resin
-This product is currently available in: European Union member states, Switzerland, Norway
+This product is currently available in: European Union member states, Switzerland, Norway, United Kingdom and northern Ireland
  USA & Canada
 List of Sources for purchase at:
 https://mayermakes.at/engineering-resin/
